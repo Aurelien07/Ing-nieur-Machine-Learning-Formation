@@ -40,8 +40,12 @@ __Projet 6 : Développez une preuve de concept :__
 
 La Data Science évolue en permanence et vous devrez en suivre les développements. Dans ce projet libre, vous ferez une recherche sur l'état de l'art dans le but de développer une preuve de concept (POC).
 
+Dans ce projet, j'ai utilisé mes résultats du projet 6 pour comparer avec des Visual Image Tranformers et voir quel résultat serait le mieux pour notre analyse.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Projet 7 : Participez à une compétition Kaggle ! :__
 
 Pour ce dernier projet, vos compétences de Data Scientist seront mises à l’épreuve… Vous participerez à la compétition Kaggle de votre choix. Que la force soit avec vous !
+
+Dans ce projet, j'ai choisi de prendre Disaster From Titanic, pour faire une analyse sur le désastre qui s'est déroulé avec le Titanic, et ainsi détecter le type de personne qui auraient survécu en fonction de leur sexe, rang social etc etc..
