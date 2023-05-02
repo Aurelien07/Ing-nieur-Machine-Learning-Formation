@@ -28,8 +28,6 @@ __Projet 4 : Catégorisez automatiquement des questions :__
 
 Sur le site Stack Overflow, les utilisateurs posent des questions liées à l’informatique. Vous êtes en charge de développer un système permettant de tagger automatiquement les questions des utilisateurs.
 
-xxx
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Projet 5 : Classez des images à l'aide d'algorithmes de Deep Learning :__
